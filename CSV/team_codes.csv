@@ -1,14 +1,17 @@
-Abbreviation,Name
+Abbreviation.,Name
 ATL,Atlanta Hawks
-BKN,Boston Celtics
-BOS,Brooklyn Nets
+BRK,Brooklyn Nets
+BKN,Brooklyn Nets
+BOS,Boston Celtics
 CHA,Charlotte Bobcats
+CHH,Charlotte Hornets
+CHO,Charlotte Hornets
 CHI,Chicago Bulls
 CLE,Cleveland Cavaliers
 DAL,Dallas Mavericks
 DEN,Denver Nuggets
 DET,Detroit Pistons
-GS,Golden State Warriors
+GSW,Golden State Warriors
 HOU,Houston Rockets
 IND,Indiana Pacers
 LAC,Los Angeles Clippers
@@ -17,15 +20,22 @@ MEM,Memphis Grizzlies
 MIA,Miami Heat
 MIL,Milwaukee Bucks
 MIN,Minnesota Timberwolves
-NO,New Orleans Hornets
-NY,New York Knicks
+NJN,New Jersey Nets
+NOH,New Orleans Hornets
+NOP,New Orleans Pelicans
+NOK,New Orleans/Oklahoma City Hornets
+NYK,New York Knicks
 OKC,Oklahoma City Thunder
 ORL,Orlando Magic
 PHI,Philadelphia 76ers
 PHX,Phoenix Suns
+PHO,Phoenix Suns
 POR,Portland Trail Blazers
+SEA,Seattle SuperSonics
 SAC,Sacramento Kings
-SA,San Antonio Spurs
+SAS,San Antonio Spurs
 TOR,Toronto Raptors
 UTA,Utah Jazz
-WSH,Washington Wizards
+VAN,Vancouver Grizzlies
+WAS,Washington Wizards
+WSB,Washington Bullets
